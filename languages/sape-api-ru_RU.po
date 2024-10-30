@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sape API\n"
+"POT-Creation-Date: 2015-12-28 08:05+0300\n"
+"PO-Revision-Date: 2015-12-28 08:05+0300\n"
+"Last-Translator: EvGenius <kowack@gmail.com>\n"
+"Language-Team: darx.net <kowack@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../sape-api.php:78
+#, php-format
+msgid "The constant %s has been already defined!"
+msgstr "Константа %s уже определена ранее!"
+
+#: ../sape-api.php:80
+#, php-format
+msgid "Settings of the plugin %s is not used!"
+msgstr "Настройки плагина %s не применены!"
+
+#: ../sape-api.php:160
+#, php-format
+msgid "%s directory not writable"
+msgstr "директория %s не доступна для записи"
+
+#: ../sape-api.php:161
+#, php-format
+msgid "Fix it and reactivate plugin %s"
+msgstr "Исправьте и активируйте плагин %s заново"
+
+#: ../sape-api.php:162 ../sape-api.php:611
+msgid "Activate"
+msgstr ""
+
+#: ../sape-api.php:290 ../sape-api.php:298 ../sape-api.php:308
+#: ../sape-api.php:318 ../sape-api.php:319
+msgid "Settings"
+msgstr ""
+
+#: ../sape-api.php:327 ../sape-api.php:328
+msgid "Statistics"
+msgstr "Статистика"
+
+#: ../sape-api.php:467
+msgid "Identification part"
+msgstr "Идентификационная часть"
+
+#: ../sape-api.php:469
+msgid "No need download any files and archives or install anything manually."
+msgstr ""
+"Нет необходимости скачивать файлы и архивы или устанавливать что-либо "
+"вручную."
+
+#: ../sape-api.php:471
+msgid ""
+"The plugin will do everything automatically. Simply fill in the settings "
+"below."
+msgstr "Плагин всё сделает автоматически. Просто заполните настройки ниже."
+
+#: ../sape-api.php:478
+msgid "Systems monetization"
+msgstr "Системы монетизации"
+
+#: ../sape-api.php:480
+msgid "Indicate below which wage system to activate."
+msgstr "Укажите ниже какие системы заработка активировать."
+
+#: ../sape-api.php:482
+#, php-format
+msgid "Plugin perfect works with %s filter."
+msgstr "Плагин отлично работает с фильтром %s."
+
+#: ../sape-api.php:484
+#, php-format
+msgid ""
+"If you do not print all sold links on the page, remained links will be added "
+"into the footer of site in order to avoid appearance of links status %s."
+msgstr ""
+"Если вы выведите не все проданные ссылки на странице, то оставшиеся "
+"добавятся в футер (подвал) сайта во избежание появления у ссылок статуса %s."
+
+#: ../sape-api.php:562
+msgid "Access"
+msgstr ""
+
+#: ../sape-api.php:571
+msgid "Login"
+msgstr ""
+
+#: ../sape-api.php:584
+msgid "Password"
+msgstr ""
+
+#: ../sape-api.php:628
+msgid "Sape: Links"
+msgstr "Sape: Ссылки"
+
+#: ../sape-api.php:630
+msgid ""
+"Show sape`s links on site. You can use several widget to show links in "
+"several places."
+msgstr ""
+"Вывод ссылок Sape на сайте. Вы можете использовать несколько виджетов, чтобы "
+"отобразить ссылки в нескольких местах."
+
+#: ../sape-api.php:671
+msgid "Title:"
+msgstr ""
+
+#: ../sape-api.php:681
+msgid "Links count:"
+msgstr "Количество ссылок:"
+
+#: ../sape-api.php:691
+msgid "Format:"
+msgstr "Формат:"
+
+#: ../sape-api.php:696
+msgid "Text"
+msgstr "Текст"
+
+#: ../sape-api.php:699
+msgid "Block"
+msgstr "Блок"
+
+#: ../sape-api.php:706
+msgid "Block orientation:"
+msgstr "Ориентация блока:"
+
+#: ../sape-api.php:711
+msgid "Vertically"
+msgstr "Вертикально"
+
+#: ../sape-api.php:714
+msgid "Horizontally"
+msgstr "Горизонтально"
+
+#: ../sape-api.php:721
+msgid "Alternative text:"
+msgstr "Альтернативный текст:"
+
+#: ../lib/table.php:281
+msgid "No items found."
+msgstr ""
+
+#: ../lib/table.php:414
+msgid "Select bulk action"
+msgstr ""
+
+#: ../lib/table.php:416
+msgid "Bulk Actions"
+msgstr ""
+
+#: ../lib/table.php:426
+msgid "Apply"
+msgstr ""
+
+#: ../lib/table.php:518
+msgid "Filter by date"
+msgstr ""
+
+#: ../lib/table.php:520
+msgid "All dates"
+msgstr ""
+
+#: ../lib/table.php:534
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: ../lib/table.php:550
+msgid "List View"
+msgstr ""
+
+#: ../lib/table.php:551
+msgid "Excerpt View"
+msgstr ""
+
+#: ../lib/table.php:585
+#, php-format
+msgid "%s pending"
+msgstr ""
+
+#: ../lib/table.php:698
+msgid "Select Page"
+msgstr ""
+
+#: ../lib/table.php:859
+msgid "Select All"
+msgstr ""
+
+#~ msgid "Systems"
+#~ msgstr "Системы"
